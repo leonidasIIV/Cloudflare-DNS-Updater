@@ -1,4 +1,4 @@
-!/usr/bin/php7.2
+#!/usr/bin/php7.2
 <?php
 # Script for updating Dynamic IP on CloudFlare
 # K Powell <myself@kevinfpowell.me>
